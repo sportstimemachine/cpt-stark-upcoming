@@ -65,7 +65,7 @@ if ( ! class_exists( 'SportsTM_Stark_Upcoming' ) ) {
          * @var         Menu Position for our CPT
          * @since       1.0.0
          */
-        private $position = 39;
+        private $position = 37;
         
         /**
          * @var         Supported Fields of our CPT
